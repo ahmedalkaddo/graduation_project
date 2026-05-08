@@ -1,0 +1,153 @@
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.exe
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.deps.json
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.runtimeconfig.json
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.pdb
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.MainForm.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.GenerateResource.cache
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.AssemblyInfoInputs.cache
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.AssemblyInfo.cs
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.CoreCompileInputs.cache
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\refint\SmartEduAssistant.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.pdb
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.genruntimeconfig.cache
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\ref\SmartEduAssistant.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.Properties.Resources.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant..resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.AssemblyReference.cache
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEdu.D846839B.Up2Date
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuestionGenerator.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_ReviewPlan.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_Search.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizInfo.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizExamCH.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizExamTF.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_Result.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\bin\Debug\net8.0-windows\itext.licensekey.dll
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.summary_new.resources
+C:\Users\nsr.as\source\repos\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.explain.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.exe
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.deps.json
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.runtimeconfig.json
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.pdb
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.AssemblyReference.cache
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant..resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.explain.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.MainForm.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.Properties.Resources.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.summary_new.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuestionGenerator.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizExamCH.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizExamTF.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizInfo.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_Result.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_ReviewPlan.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_Search.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.GenerateResource.cache
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.AssemblyInfoInputs.cache
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.AssemblyInfo.cs
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.CoreCompileInputs.cache
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEdu.D846839B.Up2Date
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\refint\SmartEduAssistant.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.pdb
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.genruntimeconfig.cache
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\ref\SmartEduAssistant.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\OpenAI.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.Document.NET.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.Drawing.NET.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.PDF.NET.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.Words.NET.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.exe
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.deps.json
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.runtimeconfig.json
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\SmartEduAssistant.pdb
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\OpenAI.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.Document.NET.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.Drawing.NET.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.PDF.NET.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\Xceed.Words.NET.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\user\Desktop\SmartEduAssistant\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant..resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.explain.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.MainForm.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.Properties.Resources.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.summary_new.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuestionGenerator.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizExamCH.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizExamTF.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_QuizInfo.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_Result.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_ReviewPlan.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.UC_Search.resources
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.AssemblyInfo.cs
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEdu.D846839B.Up2Date
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.dll
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\refint\SmartEduAssistant.dll
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.pdb
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.genruntimeconfig.cache
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\ref\SmartEduAssistant.dll
+C:\Users\user\Desktop\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.QuizForm.resources
+C:\Users\nsr.as\Desktop\مشروع التخرج\SmartEduAssistant\obj\Debug\net8.0-windows\SmartEduAssistant.QuizForm.resources
