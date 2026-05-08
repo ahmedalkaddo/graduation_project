@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="explain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuizForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="summary_new.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_QuestionGenerator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QuizExamCH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QuizInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_QuizExamTF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Result.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_ReviewPlan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Search.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
